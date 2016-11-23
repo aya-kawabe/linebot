@@ -1,0 +1,20 @@
+{
+    "name": "Linebot",
+    "description": "Linebot",
+    "website": "https://github.com/aya-kawabe/linebot",
+    "repository": "https://github.com/aya-kawabe/linebot",
+    "keywords": [
+        "python"
+    ],
+    "success_url": "/",
+    "env": {
+        "LINE_CHANNEL_ACCESS_TOKEN": {
+            "description": "LINE Channel Access Token",
+            "required": true
+        },
+        "DOCOMO_API_KEY": {
+            "description": "Docomo Developer API Key",
+            "required": true
+        }
+    }
+}
