@@ -11,10 +11,6 @@
         "LINE_CHANNEL_ACCESS_TOKEN": {
             "description": "LINE Channel Access Token",
             "required": true
-        },
-        "DOCOMO_API_KEY": {
-            "description": "Docomo Developer API Key",
-            "required": true
         }
     }
 }
